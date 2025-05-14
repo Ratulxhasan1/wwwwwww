@@ -11,5 +11,5 @@ if(pop % 2 == 0){
     console.log("an even number.")
 }
 else{
-    console.log("Odd Number")
+    console.log("Odd Number");
 }
